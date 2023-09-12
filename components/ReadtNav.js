@@ -22,7 +22,7 @@ const BasicExample = () => {
       <Navbar bg="" style={{ backgroundColor: "black" }} expand="lg">
         <Container>
           <Navbar.Brand href="#home" className="text-light">
-            Cognicode IT solution
+            Infinity
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" className="d-flex" />
           <Navbar.Collapse id="basic-navbar-nav">
@@ -39,9 +39,7 @@ const BasicExample = () => {
               <Nav.Link href="contact.js" className="text-light">
                 Contact
               </Nav.Link>
-              <Nav.Link href="blog.js" className="text-light">
-                Blog
-              </Nav.Link>
+              
               <Nav.Link href="product.js" className="text-light">
                Product
               </Nav.Link>
