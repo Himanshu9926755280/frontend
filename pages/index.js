@@ -155,7 +155,7 @@ export default function Home({ blogs }) {
                 infinity
               </h4>
               <p className="pt-6 font-body leading-relaxed text-grey-20">
-                infinity, This company working in WEB DEVELOPMENT, APP DEVELOPMENT, THESIS WRITING, ANDROID & IOS and all type thesis writing are available.
+                infinity, This company working in Smart watch, Android watch, Advanced Technology Watch, a and all types watch are available.
               </p>
               <div className="flex flex-col justify-center pt-6 sm:flex-row lg:justify-start">
                 <div className="flex items-center justify-center sm:justify-start">
@@ -189,7 +189,7 @@ export default function Home({ blogs }) {
               <div>
                 <div className="flex items-end justify-between">
                   <h4 className="font-body font-semibold uppercase text-black">
-                    HTML & CSS
+                    Advanced Technology
                   </h4>
                   <h3 className="font-body text-3xl font-bold text-primary">
                     85%
@@ -205,7 +205,7 @@ export default function Home({ blogs }) {
               <div className="pt-6">
                 <div className="flex items-end justify-between">
                   <h4 className="font-body font-semibold uppercase text-black">
-                    Python
+                    Android watch
                   </h4>
                   <h3 className="font-body text-3xl font-bold text-primary">
                     70%
@@ -221,7 +221,7 @@ export default function Home({ blogs }) {
               <div className="pt-6">
                 <div className="flex items-end justify-between">
                   <h4 className="font-body font-semibold uppercase text-black">
-                    Javascript
+                    smart watch
                   </h4>
                   <h3 className="font-body text-3xl font-bold text-primary">
                     98%
@@ -749,7 +749,7 @@ export default function Home({ blogs }) {
                     Software Development
                   </span>
                   <span className="block pt-2 font-body text-grey-20">
-                    Software development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services
+                    smartwatch development is the work involved in developing a advance watch for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services
                   </span>
                 </div>
               </a>
@@ -769,7 +769,7 @@ export default function Home({ blogs }) {
                     Android & IOS Development
                   </span>
                   <span className="block pt-2 font-body text-grey-20">
-                    Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources.
+                    Mobile application  is the process of creating software applicationsin watch that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources.
                   </span>
                 </div>
               </a>
@@ -791,7 +791,7 @@ export default function Home({ blogs }) {
                     Graphics Designing
                   </span>
                   <span className="block pt-2 font-body text-grey-20">
-                    Graphic designers create visual communications such as adverts, branding, publicity materials and magazine layouts. Graphic designers (who may also be known as graphic artists) utilise graphic design skills to create media products such as magazines, labels, advertising and signage.
+                    Advanced designes create visual communications such as adverts, branding, publicity materials and magazine layouts. Graphic designers (who may also be known as graphic artists) utilise graphic design skills to create media products such as magazines, labels, advertising and signage.
                   </span>
                 </div>
               </a>
