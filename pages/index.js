@@ -21,7 +21,7 @@ export default function Home({ blogs }) {
           name="viewport"
         />
 
-        <title>Cognicode</title>
+        <title>infiniti</title>
 
         <meta property="og:title" content="Homepage | Atom Template" />
 
@@ -111,7 +111,7 @@ export default function Home({ blogs }) {
               </div>
               <div className="pt-8 sm:pt-10 lg:pl-8 lg:pt-0">
                 <h1 className="text-center font-header text-4xl text-white sm:text-left ">
-                  Welcome to Cognicode IT Solutions
+                  Welcome to infiniti
                 </h1>
                 <div className="flex flex-col justify-center pt-3 sm:flex-row sm:pt-5 lg:justify-start">
                   <div className="flex items-center justify-center pl-0 sm:justify-start md:pl-1">
@@ -152,10 +152,10 @@ export default function Home({ blogs }) {
                 About?
               </h2>
               <h4 className="pt-6 font-header text-xl font-medium text-black sm:text-2xl lg:text-3xl">
-                Cognicode IT Solutions
+                infinity
               </h4>
               <p className="pt-6 font-body leading-relaxed text-grey-20">
-                Welcome to Cognicode IT Solutions, This company working in WEB DEVELOPMENT, APP DEVELOPMENT, THESIS WRITING, ANDROID & IOS and all type thesis writing are available.
+                infinity, This company working in WEB DEVELOPMENT, APP DEVELOPMENT, THESIS WRITING, ANDROID & IOS and all type thesis writing are available.
               </p>
               <div className="flex flex-col justify-center pt-6 sm:flex-row lg:justify-start">
                 <div className="flex items-center justify-center sm:justify-start">
@@ -280,7 +280,7 @@ export default function Home({ blogs }) {
               </div>
               <div className="text-center">
                 <h3 className="pt-8 text-lg font-semibold uppercase text-primary group-hover:text-yellow lg:text-xl">
-                  <a href="career">Web developments</a>
+                  <a href="career">smart watch developments</a>
                 </h3>
                 <p className="text-grey pt-4 text-sm group-hover:text-white md:text-base">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -304,7 +304,7 @@ export default function Home({ blogs }) {
               </div>
               <div className="text-center">
                 <h3 className="pt-8 text-lg font-semibold uppercase text-primary group-hover:text-yellow lg:text-xl">
-                  Thesis Writing
+                  New generation watch
                 </h3>
                 <p className="text-grey pt-4 text-sm group-hover:text-white md:text-base">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -322,13 +322,13 @@ export default function Home({ blogs }) {
                 <div className="block group-hover:hidden">
                   <img
                     src="/assets/img/icon-mobile-black.svg"
-                    alt="Mobile Application icon"
+                    alt="watch Application icon"
                   />
                 </div>
               </div>
               <div className="text-center">
                 <h3 className="pt-8 text-lg font-semibold uppercase text-primary group-hover:text-yellow lg:text-xl">
-                  Android & IOS Development
+                  smart and android development
                 </h3>
                 <p className="text-grey pt-4 text-sm group-hover:text-white md:text-base">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -352,7 +352,7 @@ export default function Home({ blogs }) {
               </div>
               <div className="text-center">
                 <h3 className="pt-8 text-lg font-semibold uppercase text-primary group-hover:text-yellow lg:text-xl">
-                  Email Development
+                   multi task watch
                 </h3>
                 <p className="text-grey pt-4 text-sm group-hover:text-white md:text-base">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -376,7 +376,7 @@ export default function Home({ blogs }) {
               </div>
               <div className="text-center">
                 <h3 className="pt-8 text-lg font-semibold uppercase text-primary group-hover:text-yellow lg:text-xl">
-                  Graphic Design
+                  New Design
                 </h3>
                 <p className="text-grey pt-4 text-sm group-hover:text-white md:text-base">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -388,19 +388,19 @@ export default function Home({ blogs }) {
                 <div className="hidden group-hover:block">
                   <img
                     src="/assets/img/icon-graphics-white.svg"
-                    alt="Graphic Design icon"
+                    alt="watch Design icon"
                   />
                 </div>
                 <div className="block group-hover:hidden">
                   <img
                     src="/assets/img/icon-graphics-black.svg"
-                    alt="Graphic Design icon"
+                    alt=" Design icon"
                   />
                 </div>
               </div>
               <div className="text-center">
                 <h3 className="pt-8 text-lg font-semibold uppercase text-primary group-hover:text-yellow lg:text-xl">
-                  Web Design
+                  smarttechnology Design
                 </h3>
                 <p className="text-grey pt-4 text-sm group-hover:text-white md:text-base">
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -412,7 +412,7 @@ export default function Home({ blogs }) {
 
         <div className="container py-16 md:py-20" id="portfolio">
           <h2 className="text-center font-header text-4xl font-semibold uppercase text-primary sm:text-5xl lg:text-6xl">
-            Check into cognicode it solutions
+            Check into infiniti
           </h2>
           <h3 className="pt-6 text-center font-header text-xl font-medium text-black sm:text-2xl lg:text-3xl">
             Here's what I have done with the past
@@ -514,7 +514,7 @@ export default function Home({ blogs }) {
 
         <div className="container py-16 md:py-20" id="work">
           <h2 className="text-center font-header text-4xl font-semibold uppercase text-primary sm:text-5xl lg:text-6xl">
-            Cognicode products
+            infiniti products
           </h2>
           <h3 className="pt-6 text-center font-header text-xl font-medium text-black sm:text-2xl lg:text-3xl">
             Service based products
@@ -549,7 +549,7 @@ export default function Home({ blogs }) {
                         Rs. 30,000.00
                       </span>
                       <span className="block pt-2 font-header text-xl font-bold uppercase text-primary">
-                        M.Tech Thesis Writing Services
+                        Titan Watch
                       </span>
                       <div className="pt-2">
                         <span className="block font-body text-black">
@@ -587,7 +587,7 @@ export default function Home({ blogs }) {
                         Rs. 15,000.00
                       </span>
                       <span className="block pt-2 font-header text-xl font-bold uppercase text-primary">
-                        Data Mining Thesis Writing Services
+                        Sonata watch
                       </span>
                       <div className="pt-2">
                         <span className="block font-body text-black">
@@ -625,7 +625,7 @@ export default function Home({ blogs }) {
                         Rs. 25,000.00
                       </span>
                       <span className="block pt-2 font-header text-xl font-bold uppercase text-primary">
-                        NLP Thesis Writing Services
+                        Fastrack Watch
                       </span>
                       <div className="pt-2">
                         <span className="block font-body text-black">
@@ -658,10 +658,10 @@ export default function Home({ blogs }) {
                   </div>
                   <div className="pt-5 md:pl-5 md:pt-0">
                     <h1 className="font-body text-2xl font-bold text-primary md:text-4xl">
-                      20
+                      10000 plus products
                     </h1>
                     <h4 className="text-grey-dark font-header text-base font-medium leading-loose md:text-xl">
-                      Finished Projects
+                      Finished products 
                     </h4>
                   </div>
                 </div>
@@ -727,10 +727,10 @@ export default function Home({ blogs }) {
         <div className="bg-grey-50" id="blog">
           <div className="container py-16 md:py-20">
             <h2 className="text-center font-header text-4xl font-semibold uppercase text-primary sm:text-5xl lg:text-6xl">
-              I also like to Blog
+              I also like to fastract
             </h2>
             <h4 className="pt-6 text-center font-header text-xl font-medium text-black sm:text-2xl lg:text-3xl">
-              Check out my latest blog
+              Check out latest watch
             </h4>
             <div className="mx-auto grid w-full grid-cols-1 gap-6 pt-12 sm:w-3/4 lg:w-full lg:grid-cols-3 xl:gap-10">
 
@@ -847,7 +847,7 @@ export default function Home({ blogs }) {
                 </p>
               </div>
               <p className="pt-2 text-left font-body font-bold text-primary lg:text-lg">
-                +91-7000515617
+                +91-6265430394
               </p>
             </div>
             <div className="w-full border-l-2 border-t-0 border-r-2 border-b-2 border-grey-60 px-6 py-6 sm:py-8 lg:w-1/3 lg:border-l-0 lg:border-t-2">
@@ -858,7 +858,7 @@ export default function Home({ blogs }) {
                 </p>
               </div>
               <p className="pt-2 text-left font-body font-bold text-primary lg:text-lg">
-                cognicodeitsolution@gmail.com
+                himanshu6265430@gmail.com
               </p>
             </div>
             <div className="w-full border-l-2 border-t-0 border-r-2 border-b-2 border-grey-60 px-6 py-6 sm:py-8 lg:w-1/3 lg:border-l-0 lg:border-t-2">
@@ -869,7 +869,7 @@ export default function Home({ blogs }) {
                 </p>
               </div>
               <p className="pt-2 text-left font-body font-bold text-primary lg:text-lg">
-                Gwalior(M.P.) Tulsi Nagar near at Hotel Silver OAK
+                BTM Lay out
               </p>
             </div>
           </div>
